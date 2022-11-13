@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	secret := "_______"
+	secret := "1ld0gVand"
 	data := os.Args[1]
 	h := hmac.New(sha256.New, []byte(secret))
 	h.Write([]byte(data))
