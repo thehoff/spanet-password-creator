@@ -4,7 +4,7 @@ SPAnet API password hashing
 
 This is to create an encrypted version of the password input to be sent to the spanet API.
 
-Included are binaries annd the sourcecode.
+Included are binaries and the source code.
 
 
 Binary
