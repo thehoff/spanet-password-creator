@@ -1,5 +1,5 @@
 
-SPAnet API password hasing
+SPAnet API password hashing
 --------------------------
 
 This is to create an encrypted version of the password input to be sent to the spanet API.
